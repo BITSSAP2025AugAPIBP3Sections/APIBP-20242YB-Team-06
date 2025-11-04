@@ -1,6 +1,3 @@
 [submodule "User-Service"]
 	path = User-Service
 	url = https://github.com/udaysingh21/User-Service
-[submodule "Frontend"]
-	path = Frontend
-	url = https://github.com/udaysingh21/VRMS_Frontend
