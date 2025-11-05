@@ -7,3 +7,6 @@
 [submodule "Matching-service"]
 	path = Matching-service
 	url = https://github.com/udaysingh21/Matching-Service.git
+[submodule "Matching_service"]
+	path = Matching_service
+	url = https://github.com/udaysingh21/Matching-Service.git
