@@ -4,3 +4,6 @@
 [submodule "VRMS_Frontend"]
 	path = VRMS_Frontend
 	url = https://github.com/udaysingh21/VRMS_Frontend
+[submodule "Matching-service"]
+	path = Matching-service
+	url = https://github.com/udaysingh21/Matching-Service.git
