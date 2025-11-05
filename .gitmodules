@@ -10,3 +10,6 @@
 [submodule "Matching_service"]
 	path = Matching_service
 	url = https://github.com/udaysingh21/Matching-Service.git
+[submodule "analytics-service"]
+	path = analytics-service
+	url = https://github.com/udaysingh21/Analytics-Service.git
