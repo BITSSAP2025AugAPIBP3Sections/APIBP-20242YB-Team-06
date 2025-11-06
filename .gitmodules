@@ -1,3 +1,4 @@
+
 [submodule "User-Service"]
 	path = User-Service
 	url = https://github.com/udaysingh21/User-Service
@@ -13,3 +14,6 @@
 [submodule "analytics-service"]
 	path = analytics-service
 	url = https://github.com/udaysingh21/Analytics-Service.git
+[submodule "Volunteer-Service"]
+	path = Volunteer-Service
+	url = https://github.com/udaysingh21/Volunteer-Application-Service
