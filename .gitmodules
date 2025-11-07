@@ -1,3 +1,6 @@
+[submodule "NGO-Postings-Service"]
+	path = NGO-Postings-Service
+	url = https://github.com/udaysingh21/NGO-Postings-Service
 
 [submodule "User-Service"]
 	path = User-Service
