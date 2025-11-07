@@ -1,3 +1,22 @@
 [submodule "NGO-Postings-Service"]
 	path = NGO-Postings-Service
 	url = https://github.com/udaysingh21/NGO-Postings-Service
+
+[submodule "User-Service"]
+	path = User-Service
+	url = https://github.com/udaysingh21/User-Service.git
+[submodule "VRMS_Frontend"]
+	path = VRMS_Frontend
+	url = https://github.com/udaysingh21/VRMS_Frontend
+[submodule "Matching-service"]
+	path = Matching-service
+	url = https://github.com/udaysingh21/Matching-Service.git
+[submodule "Matching_service"]
+	path = Matching_service
+	url = https://github.com/udaysingh21/Matching-Service.git
+[submodule "analytics-service"]
+	path = analytics-service
+	url = https://github.com/udaysingh21/Analytics-Service.git
+[submodule "Volunteer-Service"]
+	path = Volunteer-Service
+	url = https://github.com/udaysingh21/Volunteer-Application-Service
