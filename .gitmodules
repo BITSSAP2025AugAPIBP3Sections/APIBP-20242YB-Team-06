@@ -1,4 +1,3 @@
-
 [submodule "User-Service"]
 	path = User-Service
 	url = https://github.com/udaysingh21/User-Service.git
