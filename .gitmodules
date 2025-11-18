@@ -16,6 +16,6 @@
 [submodule "Volunteer-Service"]
 	path = Volunteer-Service
 	url = https://github.com/udaysingh21/Volunteer-Application-Service
-[submodule "NGO-Postings-Service2"]
-	path = NGO-Postings-Service2
+[submodule "NGO-Postings-Service"]
+	path = NGO-Postings-Service
 	url = https://github.com/udaysingh21/NGO-Postings-Service
